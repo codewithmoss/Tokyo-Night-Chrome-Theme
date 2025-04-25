@@ -22,9 +22,17 @@ Tokyo Night is a beautiful dark theme inspired by the Tokyo night skyline. Desig
 
 This theme is open for personal use.
 
-
 ---
 
+
+## 📥 Download
+
+- [Download v1.0](https://github.com/codewithmoss/Tokyo-Night-Chrome-Theme/releases/download/v1.0/Tokyo-Night-Chrome-v1.crx)
+- [Download v2.0](https://github.com/codewithmoss/Tokyo-Night-Chrome-Theme/releases/download/v2.0/Tokyo-Night-Chrome-v2.crx)
+- [Download v3.0 (Final)](https://github.com/codewithmoss/Tokyo-Night-Chrome-Theme/releases/download/v3.0/Tokyo-Night-Chrome-v3.crx)
+
+
+---
 
 # Chrome vs Firefox Theme `manifest.json` – Color Properties
 
