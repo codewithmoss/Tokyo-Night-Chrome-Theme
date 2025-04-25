@@ -1,0 +1,94 @@
+19 (Official Repo) + 1 (I found) = 20 Properties of Chrome in manifest.json file of chrome theme. 
+        "colors": {
+            LEFT (Only in Chrome)
+            "bookmark_text": [0, 0, 0],
+            "button_background": [0, 0, 0],
+            "control_background": [0, 0, 0],
+            "frame_inactive": [0, 0, 0],
+            "frame_incognito": [0, 0, 0],
+            "frame_incognito_inactive": [0, 0, 0],
+            "ntp_header": [0, 0, 0],
+            "ntp_link": [0, 0, 0],
+            "ntp_link_underline": [0, 0, 0],
+            "ntp_section": [0, 0, 0],
+            "ntp_section_link": [0, 0, 0],
+            "ntp_section_link_underline": [0, 0, 0],
+            "ntp_section_text": [0, 0, 0],
+            
+            "toolbar_button_icon": [0, 0, 0,]   // I found this property
+
+
+
+            YES (Same in both Chrome & Firefox)
+            "toolbar": [0, 0, 0, 0.0]
+            "frame": [0, 0, 0],
+            "tab_background_text": [0, 0, 0],
+            "ntp_background": [0, 0, 0],
+            "ntp_text": [0, 0, 0],
+            "tab_text": [0, 0, 0],
+
+            NO (Only in Firefox)
+            "toolbar_text": "rgb(122, 162, 247)",
+            "toolbar_field": "rgb(26, 27, 38)",
+            "toolbar_field_text": "rgb(192, 202, 245)",
+            "tab_line": "rgb(187, 154, 247)",
+            "popup": "rgb(52, 59, 88)",
+            "popup_text": "rgb(122, 162, 247)",
+            "icons_attention": "rgb(247, 118, 142)",
+            "popup_border": "rgb(187, 154, 247)",
+            "popup_highlight_text": "rgb(26, 27, 38)",
+            "popup_highlight": "rgb(42, 195, 222)",
+            "sidebar_border": "rgb(52, 59, 88)",
+            "sidebar_highlight_text": "rgb(26, 27, 38)",
+            "sidebar_highlight": "rgb(42, 195, 222)",
+            "sidebar_text": "rgb(192, 202, 245)",
+            "sidebar": "rgb(26, 27, 38)",
+            "tab_loading": "rgb(247, 118, 142)",
+            "tab_selected": "rgb(52, 59, 88)",
+            "toolbar_bottom_separator": "rgb(52, 59, 88)",
+            "toolbar_field_border_focus": "rgb(187, 154, 247)",
+            "toolbar_field_highlight_text": "rgb(26, 27, 38)",
+            "toolbar_field_highlight": "rgb(42, 195, 222)"
+        }
+
+
+Firefox manifest.json file of "Tokyo Night Theme"
+
+{
+  "manifest_version": 2,
+  "version": "2.0",
+  "name": "Tokyo Night",
+  "theme": {
+    "images": {},
+    "properties": {},
+    "colors": {
+      "toolbar": "rgb(52, 59, 88)",
+      "toolbar_text": "rgb(122, 162, 247)",
+      "frame": "rgb(26, 27, 38)",
+      "tab_background_text": "rgb(122, 162, 247)",
+      "toolbar_field": "rgb(26, 27, 38)",
+      "toolbar_field_text": "rgb(192, 202, 245)",
+      "tab_line": "rgb(187, 154, 247)",
+      "popup": "rgb(52, 59, 88)",
+      "popup_text": "rgb(122, 162, 247)",
+      "icons_attention": "rgb(247, 118, 142)",
+      "ntp_background": "rgb(36, 40, 59)",
+      "ntp_text": "rgb(192, 202, 245)",
+      "popup_border": "rgb(187, 154, 247)",
+      "popup_highlight_text": "rgb(26, 27, 38)",
+      "popup_highlight": "rgb(42, 195, 222)",
+      "sidebar_border": "rgb(52, 59, 88)",
+      "sidebar_highlight_text": "rgb(26, 27, 38)",
+      "sidebar_highlight": "rgb(42, 195, 222)",
+      "sidebar_text": "rgb(192, 202, 245)",
+      "sidebar": "rgb(26, 27, 38)",
+      "tab_loading": "rgb(247, 118, 142)",
+      "tab_selected": "rgb(52, 59, 88)",
+      "tab_text": "rgb(122, 162, 247)",
+      "toolbar_bottom_separator": "rgb(52, 59, 88)",
+      "toolbar_field_border_focus": "rgb(187, 154, 247)",
+      "toolbar_field_highlight_text": "rgb(26, 27, 38)",
+      "toolbar_field_highlight": "rgb(42, 195, 222)"
+    }
+  },
+}

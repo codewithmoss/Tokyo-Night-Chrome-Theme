@@ -1,0 +1,36 @@
+{
+  "manifest_version": 3,
+  "name": "Tokyo Night",
+  "version": "2.0",
+  "description": "A Tokyo Night themed Chrome browser experience with sleek dark hues.",
+  "theme": {
+    "colors": {
+      "frame": [26, 27, 38],
+      "toolbar": [52, 59, 88],
+      "tab_text": [122, 162, 247],
+      "background_tab_text": [122, 162, 247],
+      "bookmark_text": [192, 202, 245],
+      "ntp_background": [36, 40, 59],
+      "ntp_text": [192, 202, 245],
+      "ntp_link": [42, 195, 222],
+      "ntp_header": [122, 162, 247],
+      "ntp_section": [52, 59, 88],
+      "ntp_section_text": [192, 202, 245],
+      "ntp_section_link": [42, 195, 222],
+      "button_background": [187, 154, 247],
+      "toolbar_button_icon": [192, 202, 245],
+      "omnibox_text": [192, 202, 245],
+      "omnibox_background": [26, 27, 38],
+      "omnibox_border": [187, 154, 247],
+      "omnibox_text_deemphasized": [122, 162, 247],
+      "omnibox_selected_text": [26, 27, 38],
+      "omnibox_selected_background": [42, 195, 222]
+    },
+    "properties": {
+      "ntp_background_alignment": "center",
+      "ntp_background_repeat": "no-repeat",
+      "ntp_logo_alternate": 1
+    }
+  },
+  "author": "RAI SULEMAN"
+}

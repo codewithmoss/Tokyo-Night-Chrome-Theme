@@ -1,0 +1,23 @@
+{
+  "manifest_version": 2,
+  "name": "Tokyo Night Dark (Chrome Port)",
+  "version": "1.0",
+  "description": "A Chrome theme based on the Tokyo Night Firefox theme.",
+  "theme": {
+    "colors": {
+      "frame": [26, 27, 38],
+      "toolbar": [52, 59, 88],
+      "tab_text": [122, 162, 247],
+      "bookmark_text": [122, 162, 247],
+      "ntp_background": [36, 40, 59],
+      "ntp_text": [192, 202, 245],
+      "ntp_section_link": [122, 162, 247],
+      "ntp_section_link_underline": [42, 195, 222],
+      "button_background": [52, 59, 88],
+      "toolbar_text": [122, 162, 247],
+      "tab_background_text": [122, 162, 247],
+      "tab_selected": [52, 59, 88],
+      "tab_background": [26, 27, 38]
+    }
+  }
+}

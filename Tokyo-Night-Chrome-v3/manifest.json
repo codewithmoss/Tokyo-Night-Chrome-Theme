@@ -1,0 +1,33 @@
+{
+  "manifest_version": 3,
+  "name": "Tokyo Night",
+  "version": "3.0",
+  "description": "A Chrome theme based on the Tokyo Night Firefox theme. V3",
+  "theme": {
+    "colors": {
+      "frame": [26, 27, 38],                            // YES
+      "toolbar": [52, 59, 88],                          // YES
+      "tab_background_text": [122, 162, 247],          // YES
+      "ntp_background": [36, 40, 59],                  // YES
+      "ntp_text": [192, 202, 245],                     // YES
+      "tab_text": [122, 162, 247],                     // YES
+
+      "toolbar_button_icon": [122, 162, 247],          // I found this property
+
+      "bookmark_text": [122, 162, 247],                // match to tab_text
+      "button_background": [122, 162, 247],               // match to toolbar
+      "control_background": [122, 162, 247],              // match to frame
+      "frame_inactive": [36, 40, 59],                  // Tokyo Night dim variant
+      "frame_incognito": [36, 40, 59],                 // same as inactive
+      "frame_incognito_inactive": [26, 27, 38],        // darker base
+      "ntp_header": [122, 162, 247],                   // match to tab_text
+      "ntp_link": [122, 162, 247],                     // match to popup_text
+      "ntp_link_underline": [187, 154, 247],           // match to tab_line
+      "ntp_section": [187, 154, 247],                     // match to popup
+      "ntp_section_link": [122, 162, 247],             // match to popup_text
+      "ntp_section_link_underline": [187, 154, 247],   // match to popup_border
+      "ntp_section_text": [192, 202, 245]              // match to ntp_text
+    }
+  },
+  "author": "RAI SULEMAN"
+}
